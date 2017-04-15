@@ -1,0 +1,10 @@
+<resources>
+    <string name="listview_header_hint_normal">Own Less · Live More</string>
+    <string name="listview_header_hint_release">Own Less · Live More</string>
+    <string name="listview_loading">Own Less · Live More</string>
+    <string name="nomore_loading">Own Less · Live More</string>
+    <string name="refreshing">Own Less · Live More</string>
+    <string name="refresh_done">Own Less · Live More</string>
+    <string name="loading_done">Own Less · Live More</string>
+    <string name="listview_header_last_time">上次更新时间：</string>
+</resources>
